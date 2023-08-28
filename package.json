@@ -1,0 +1,15 @@
+{
+  "name": "hanna-hinn-nodejs",
+  "version": "1.0.0",
+  "description": "Backend NodeJS Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Hanna Hinn",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
